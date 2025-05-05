@@ -32,6 +32,6 @@ Run `git pull`, and `npm i`.
 
 By keeping your site up to date, you not only enjoy the latest features but also enhance the security of your experience.
 
-If you encounter any challenges while updating, feel free to reach out to our [support team](https://discord.gg/interstellar) for assistance.
+If you encounter any challenges while updating, feel free to reach out to our [support team](https://discord.gg/HN5B5TSsy5) for assistance.
 
 Thank you for prioritizing the security and performance of your experience with our site.
